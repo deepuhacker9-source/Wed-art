@@ -5,8 +5,8 @@ This project is a small Next.js + Tailwind frontend that saves portrait requests
 ## Setup (summary)
 1. Create a Supabase project and add a table `requests` (see SQL below).
 2. Add environment variables to Vercel / local `.env.local`:
-   - NEXT_PUBLIC_SUPABASE_URL
-   - NEXT_PUBLIC_SUPABASE_ANON_KEY
+   - https://nrmcewposwnxymuxschf.supabase.co
+   -eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5ybWNld3Bvc3dueHltdXhzY2hmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2OTM0MTYsImV4cCI6MjA3ODI2OTQxNn0.vwaDKVhh9-Ri487Gsv6riATI19msqrusiDWsjKloxXM
 3. Deploy to Vercel (connect repo) — it will build automatically.
 
 ## Supabase table SQL
