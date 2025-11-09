@@ -13,4 +13,4 @@ module.exports = {
     },
   },
   plugins: [],
-}￼Enter
+}
