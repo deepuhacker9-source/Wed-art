@@ -20,4 +20,4 @@ export default function Artists() {
       </div>
     </section>
   );
-}￼Enter
+  }
