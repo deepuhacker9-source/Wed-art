@@ -1,5 +1,4 @@
 export default function Artists() {
-  // Static demo list for v1 — we'll connect DB later
   const artists = [
     { name: "Aarti Sharma", style: "Hyper-realistic", desc: "3 day express available" },
     { name: "Rohit Verma", style: "Hyper-realistic", desc: "Skin tone mastery" },
