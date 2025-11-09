@@ -14,7 +14,6 @@ export default function RequestForm() {
   async function submitRequest(e) {
     e.preventDefault();
     setLoading(true);
-    // minimal validation
     if (!name || !email || !photoUrl) {
       alert("Please provide name, email and a photo URL (you can upload to any image host).");
       setLoading(false);
